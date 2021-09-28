@@ -2,4 +2,3 @@
   Machol & Johannes, LLC - Web
 </h1>
 
-Website repository for Machol & Johannes, LLC
